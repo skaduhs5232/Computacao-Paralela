@@ -1,1 +1,0 @@
-# Trabalho-Pratico-Computa-o-Paralela
